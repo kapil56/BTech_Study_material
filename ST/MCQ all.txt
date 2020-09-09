@@ -1,0 +1,280 @@
+Q1. Server manager is great tool for managing most of your server settings and configuration all in one central place Which one of the following S feature is used for Storage management, replication and searching?
+
+Answer: File Services
+
+Q2. Which program loads the OS in to the RAM while booting?
+
+Answer: Bootstrap program
+
+Q3. Which among these can be used for managing devices in windows 10?
+
+Answer: All the options
+
+Q4. A company wants to ensure that other mail servers on the Internet can locate its company based email server. What type of record is needed?
+
+Answer: MX
+
+Q5. What should be used to protect data in hard drive
+
+Answer: Bitlocker
+
+Q6. The command to get IP Address details in Windows 7 ?
+
+Answer: ipconfig /all
+
+Q7. Which protocol is used in Active Directory for Authentication
+
+Answer: LDAP
+
+Q8. Command to view contents of file named testfile
+
+Answer: cat textfile
+
+Q9. Server chassis housing multiple thin modular electronic boards are
+
+Answer: Blade server
+
+Q10. ______ is the microsoft's voice controlled digital assistant in windows 10
+
+Answer: Cortana
+
+Q11. Which desktop feature has been included in windows 10 which was not included in windows 10?
+
+Answer: Start Menu
+
+Q12. DNS server respond will use Port number
+
+Answer: 53
+
+Q13. What is the function of SMPS?
+
+Answer: regulates AC or DC input voltage to DC output voltage
+
+Q14. What type of file system does Linux support
+
+Answer: both ext4 and xfs
+
+Q15. Which directory path in RHEL does files related to hardware devices present ?
+
+Answer: /dev
+
+Q16. John has created a local group named Engineering on a client running Windows 7. He wants to assign appropriate share permissions to the Engineering group to ensure that users are able to add modify, and delete files located in the Engineering shared folder. He does not want the members of the group to modify the Shared permissions of the folder. Which of the following share permissions should be assigned to the Engineering foldes?
+
+Answer: Read
+
+Q17. Which is the default bootloader in RHEL
+
+Answer: grub
+
+Q18. You manage a Windows Server 2012 R2 system named CorpServe. Your supervisor asks you to add a server role to a different Windows Server 2012 R2 system located in a different building named Reserve. Which feature could you use to do this from the console of CorpServer?
+
+Answer: Server Manager
+
+Q19. Which of the following tools can you use to determine if the applications, devices and hardware on your computer running Windows Vista are known to have problems with Windows
+
+Answer: PEImg
+
+Q20. The configuration file associated with user related information is
+
+
+Answer: /etc/passwd
+
+Q21. Controlling and monitoring of servers from remote location can be done using
+
+Answer: Integrated Lights Out
+
+Q22. ________ provides 64 bit path to the processor.
+
+Answer: DIMM
+
+Q23. If I want to have more than four partition on my disk which disk type would you prefer
+
+Answer: GPT disk
+
+Q24. How will you identify a failed service in Windows 10?
+
+Answer: Using Event viewer
+
+Q25. Which among the following statement is not true regarding motherboard
+
+Answer: PCB provides an interconnect to every component present in PC
+
+Q1.The storage that is directly attached to the computer network (LAN) is called
+
+Answer: NAS
+
+Q2. The disk locally attached to the server is called _________.
+
+Answer: DAS
+
+Q3. Point-in-time copy of source volume is called _____.
+
+Answer: Snapshot
+
+Q4. Port no for SMTP protocol
+
+Answer: 25
+
+Q5. An event that is generated when a service or device is approaching a threshold is called
+
+Answer: Warning
+
+Q6. unsolicited bulk emails messages are known as
+
+Answer: Spam
+
+Q7. Which of the following backup is easy to implement
+
+Answer: None
+
+Q8. Which RAID level is not fault tolerant
+
+Answer: RAID 0
+
+Q9. The backup which takes long time to restore?
+
+Answer: Incremental backup
+
+Q10. Backup is used to ________.
+
+Answer: To restore data, recover files as well as replication data between sites
+
+Q11. Which of the following is example for physical security?
+
+Answer: Motion or Intrusion Detectors
+
+Q12. What is the process of creating an exact copy of data?
+
+Answer: Replication
+
+Q13. Which of the following is not a level security in FC SAN?
+
+Answer: Data Firewall
+
+Q14. Which of the following is a file system used in virtual desktop interface?
+
+Answer: NTFS
+
+Q15. _______ is an example for mail server.
+
+Answer: All of the above
+
+Q16. Which one these are not an email agent?
+
+Answer: MVA
+
+Q17. An attack that redirects users from the legitimate website they intended to visit and lead them to malicious ones.
+
+Answer: Pharming
+
+Q18. Which one is not a messaging protocol.
+
+Answer: SNMP
+
+Q19. Which is the minimum number of hard disk required to setup RAID 1.
+
+Answer: Two
+
+Q20. Display terminal connecting to a hosted virtual desktop is known as
+
+Answer: Thin client
+
+Q21.  Software that track your internet browsing habits and send you pop up containing advertisements known as 
+
+Answer: Adware
+
+Q22. Which of the following is independent malicious program that need not any host program?
+
+Answer: Trojan horse
+
+Q23. The collection of information stored in the database is called ______.
+
+Answer: Instance of the database
+
+Q24. An attack that redirects users from the legitimate website they intended to visit and lead them to malicious ones.
+
+Answer: Pharming
+
+Q25. Benefits of desktop centralization includes
+
+Answer: All of the above
+
+Q1. Which topology finds an alternate route to transfer the data?
+
+Answer: Mesh
+
+Q2. Frame check sequence is use for?
+
+Answer: To check that particular frame is valid or not
+
+Q3. Physical or logical arrangement of network is _______.
+
+Answer: Topology
+
+Q4. Which of the following are private IP networks?
+
+Answer: 172.31.0.0
+
+Q5. _________ is the protocol suite for the current Internet.
+
+Answer: TCP/IP
+
+Q6. What is the possible range of IP addresses for Class B?
+
+Answer: 128.0.0.0 through 191.255.255.255
+
+Q7. Which protocol does Ping use ?
+
+Answer: ICMP
+
+Q8. Which protocol resolves an IP address to a MAC address?
+
+Answer: ARP
+
+Q9. Which layer determines how the bits of the physical layer are grouped into frames ?
+
+Answer: Data Link
+
+Q10. What is the range of loopback address?
+
+Answer: 127.0.0.1 - 127.255.255.254
+
+Q11. Which layer is responsible for creating session ?
+
+Answer: Layer 5
+
+Q12. Which topology has a central controller or hub?
+
+Answer: Star
+
+Q13. What cables are composed of a glass
+
+Answer: Fiber optic
+
+Q14. What is the purpose of redundancy in the networks?
+
+Answer: connectivity
+
+Q15. What is the information structure produced at OSI level 3 called?
+
+Answer: Frame
+
+Q16. MAC address is of _______.
+
+Answer: 48 bits
+
+Q17. Which connector do you use for Coaxial cable ?
+
+Answer: BNC
+
+Q18. IPV4 is of ________.
+
+Answer: 32 bits
+
+Q19. What type of cabling scheme is used to connect computers to a switch ?
+
+Answer: Cross over cable
+
+Q20. Name the topology in which all computers on the network can see all data transmissions
+
+Answer: Star Topology
